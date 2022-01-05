@@ -4,15 +4,15 @@
 # Userdefined variables - Change anything according to your needs here
 #
 
-LANGUAGE=de_DE.UTF-8
-COUNTRYCODE=de
+LANGUAGE=en_EN.UTF-8
+COUNTRYCODE=nl
 CHARSET=UTF-8
 
-NTPSERVER=de.pool.ntp.org
+NTPSERVER=nl.pool.ntp.org
 
 AUTOBOOTDELAY=3
 
-MYSHELL=/bin/tcsh
+MYSHELL=/bin/zsh
 
 #Here you can choose KDE, AWESOME, LXDE or LUMINA
 DESKTOP="KDE"
